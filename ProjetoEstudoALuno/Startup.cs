@@ -8,6 +8,8 @@ using Microsoft.Extensions.Hosting;
 using ProjetoEstudoAluno.Data.Contexto;
 using ProjetoEstudoAluno.Data.Repositorio;
 using ProjetoEstudoAluno.Data.Repositorio.Interface;
+using ProjetoEstudoALuno.Servico.Servico;
+using ProjetoEstudoALuno.Servico.Servico.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,6 +32,7 @@ namespace ProjetoEstudoALuno
             services.AddControllersWithViews();
             services.AddDbContext<BancoContexto>(options => options.UseSqlServer(Configuration.GetConnectionString("Database")));
             services.AddScoped<IAlunoRepositorio, AlunoRepositorio>();
+            services.AddScoped<IAlunoServico, Alunoservico>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
