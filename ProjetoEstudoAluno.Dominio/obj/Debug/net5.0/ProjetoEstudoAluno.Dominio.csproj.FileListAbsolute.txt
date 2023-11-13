@@ -1,0 +1,12 @@
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\bin\Debug\net5.0\ProjetoEstudoAluno.Dominio.deps.json
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\bin\Debug\net5.0\ProjetoEstudoAluno.Dominio.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\bin\Debug\net5.0\ProjetoEstudoAluno.Dominio.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.csproj.AssemblyReference.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.AssemblyInfoInputs.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.AssemblyInfo.cs
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.csproj.CoreCompileInputs.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\refint\ProjetoEstudoAluno.Dominio.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ProjetoEstudoAluno.Dominio.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoAluno.Dominio\obj\Debug\net5.0\ref\ProjetoEstudoAluno.Dominio.dll

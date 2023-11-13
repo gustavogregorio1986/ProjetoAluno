@@ -1,0 +1,17 @@
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoALuno.Servico.deps.json
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoALuno.Servico.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoALuno.Servico.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoAluno.Data.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoAluno.Dominio.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoAluno.Data.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\bin\Debug\net5.0\ProjetoEstudoAluno.Dominio.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.csproj.AssemblyReference.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.AssemblyInfoInputs.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.AssemblyInfo.cs
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.csproj.CoreCompileInputs.cache
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.csproj.CopyComplete
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\refint\ProjetoEstudoALuno.Servico.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ProjetoEstudoALuno.Servico.pdb
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno.Servico\obj\Debug\net5.0\ref\ProjetoEstudoALuno.Servico.dll
