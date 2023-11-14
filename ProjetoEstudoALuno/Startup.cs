@@ -10,7 +10,6 @@ using ProjetoEstudoAluno.Data.Repositorio;
 using ProjetoEstudoAluno.Data.Repositorio.Interface;
 using ProjetoEstudoALuno.Servico.Servico;
 using ProjetoEstudoALuno.Servico.Servico.Interface;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;

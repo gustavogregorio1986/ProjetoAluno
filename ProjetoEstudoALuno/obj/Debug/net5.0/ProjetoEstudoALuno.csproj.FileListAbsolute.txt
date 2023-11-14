@@ -75,3 +75,5 @@ C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\refint\Pr
 C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\ProjetoEstudoALuno.pdb
 C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\ProjetoEstudoALuno.genruntimeconfig.cache
 C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\ref\ProjetoEstudoALuno.dll
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\Razor\Views\Aluno\Cadastrar.cshtml.g.cs
+C:\ProjetoAluno\ProjetoEstudoAluno\ProjetoEstudoALuno\obj\Debug\net5.0\Razor\Views\Aluno\Consultar.cshtml.g.cs
